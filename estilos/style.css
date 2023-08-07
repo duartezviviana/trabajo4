@@ -1,0 +1,30 @@
+/*se le coloca un margen*/
+*{
+    margin: 20px;
+}
+/*pagina de horaris de atencion*/
+.titulo{
+    font-weight: bold;
+    font-size: 50px;
+    text-align: center;
+}
+.dias{
+    /*A los días se le asignará la etiqueta html para que queden en negrita*/
+    font-weight: bold;
+    /*se le definirá un color y un tamaño de letra mayor*/
+    color: blueviolet;
+    font-size: 40px;
+    text-align: center;
+}
+.hora{
+    /* a los horarios se le
+asignará la etiqueta para que queden en cursiva.*/
+    font-style: italic;
+    text-align: center;
+}
+.header{
+    color: blue;
+}
+.footer{
+    color: red;
+}
